@@ -8,6 +8,7 @@ public class LE1_Prob3
 	        
 	        for ( int k = rows ; k >=i ; k-- )
 	        System.out.print(" *");
+		   //comment
 	        
 	        System.out.println();
 	   }
