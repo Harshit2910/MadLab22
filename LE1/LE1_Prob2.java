@@ -8,6 +8,7 @@ public class LE1_Prob2
 
 		for ( int k = 1 ; k <=i ; k++)
 		System.out.print("* ");
+		//comment
 
 		System.out.println();  	
 
